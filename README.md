@@ -1,6 +1,6 @@
-# Room Visualizer (Option A) — Lowe’s-like UI Shell (React + Konva)
+# Room Visualizer 
 
-This is a **frontend-only** starter that mimics the **layout/UX pattern** of a room visualizer:
+This is of a room visualizer:
 - Top bar with **Add My Room**
 - Left **Menu** (Flooring / Walls / Pricing / Rooms)
 - Center preview canvas
